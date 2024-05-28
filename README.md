@@ -1,4 +1,4 @@
-h1 align="center">Hi👋, I'm Amrin Shaikh</h1>
+<h1 align="center">Hi👋, I'm Amrin Shaikh</h1>
 <h3 align="center">A passionate Software Engineer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrin24&label=Profile%20views&color=0e75b6&style=flat" alt="amrin24" /> </p>
