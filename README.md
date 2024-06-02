@@ -1,9 +1,8 @@
 <h1 align="center">Hi👋,
  I'm Amrin Shaikh</h1>
- ![vecteezy_muslim-woman-do-business-video-call-conference_6648546](https://github.com/Amrin24/Amrin24/assets/141571950/f2c2a435-9d30-46ad-8a09-a4ef25ece95a)
-
-
+ 
 <h3 align="center">A passionate Software Engineer From India</h3>
+![GIF](https://github.com/Amrin24/Amrin24/assets/141571950/5c843c77-dfac-4639-aa9c-b0e4a8056ff5)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrin24&label=Profile%20views&color=0e75b6&style=flat" alt="amrin24" /> </p>
