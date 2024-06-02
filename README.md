@@ -1,6 +1,7 @@
 <h1 align="center">Hi👋,I'm Amrin Shaikh</h1>
+![girl](https://github.com/Amrin24/Amrin24/assets/141571950/936e46e4-5538-404e-8a99-a4662e2a4334)
  <h3 align="center">A passionate Software Engineer From India</h3>
- ![girl](https://github.com/Amrin24/Amrin24/assets/141571950/936e46e4-5538-404e-8a99-a4662e2a4334)
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrin24&label=Profile%20views&color=0e75b6&style=flat" alt="amrin24" /> </p>
 
