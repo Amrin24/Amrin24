@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrin24&label=Profile%20views&color=0e75b6&style=flat" alt="amrin24" /> </p>
 
-- 🌱 I’m currently learning **Mastering Python GUI Development with Tkinter" on Udemy**
+- 🌱 I’m currently learning **Mastering Python GUI Development with Tkinter**
 
 - 📫 How to reach me **amrin.shaikh9225@gmail.com**
 
