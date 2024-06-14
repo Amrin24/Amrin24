@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Mastering Python GUI Development with Tkinter**
 
-- 📫 How to reach me **amrin.shaikh9225@gmail.com**
-
 - ⚡ Fun fact **Bees can recognize human faces. Talk about having a hive-five😄**
 
 <h3 align="left">Connect with me:</h3>
